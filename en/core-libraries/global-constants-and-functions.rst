@@ -184,11 +184,11 @@ Most of the following constants refer to paths in your application.
 
 .. php:const:: CAKE
 
-    Path to the cake directory.
+    Path to the CakePHP src directory.
 
 .. php:const:: CAKE_CORE_INCLUDE_PATH
 
-    Path to the root lib directory.
+    Path to the CakePHP root directory.
 
 .. php:const:: CONFIG
 
@@ -196,7 +196,7 @@ Most of the following constants refer to paths in your application.
 
 .. php:const:: CORE_PATH
 
-   Path to the root directory with ending directory slash.
+   Path to the CakePHP root directory with ending directory slash.
 
 .. php:const:: DS
 
